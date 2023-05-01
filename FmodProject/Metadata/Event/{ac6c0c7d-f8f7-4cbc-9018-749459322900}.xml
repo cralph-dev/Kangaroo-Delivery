@@ -132,6 +132,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{976f5282-4d4c-4268-a9ad-41f182cf276c}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -169,6 +172,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{fc7dc9e5-0a18-4b21-b6d0-dbebd6498ddc}">
+		<property name="color">
+			<value>Blue Light 2</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -206,6 +212,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{8221ba52-f837-4255-9dd3-536ae56dd700}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
 		<property name="name">
 			<value>Audio 3</value>
 		</property>
