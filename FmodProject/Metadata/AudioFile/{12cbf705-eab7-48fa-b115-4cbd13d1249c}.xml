@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{12cbf705-eab7-48fa-b115-4cbd13d1249c}">
 		<property name="assetPath">
-			<value>Jingle Received the quest.wav</value>
+			<value>Sfxs/Jingles/Jingle Received the quest.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

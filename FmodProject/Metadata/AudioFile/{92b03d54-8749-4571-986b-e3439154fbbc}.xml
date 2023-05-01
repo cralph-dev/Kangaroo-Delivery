@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{92b03d54-8749-4571-986b-e3439154fbbc}">
 		<property name="assetPath">
-			<value>Map opening.wav</value>
+			<value>Sfxs/Map/Map opening.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
